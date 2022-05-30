@@ -1,0 +1,15 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "​ For this kata you need to create a function that takes an array of triangles. Each triangle is represented as an array e.g. `[10, 12, 22]` where the three numbers are the sides of the triangle. The function should return the count of triangles that are valid. ​ To be a valid triangle, the sum of any two sides must be larger than the remaining side ​",
+  "main": "countValidTriangles.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
